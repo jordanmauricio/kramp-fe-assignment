@@ -1,0 +1,14 @@
+{
+  "name": "kramp-fe-assignment",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "@nx/next": "22.6.5",
+    "nx": "22.6.5"
+  },
+  "dependencies": {
+    "next": "16.2.3",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  }
+}
