@@ -2,6 +2,10 @@
   "name": "kramp-fe-assignment",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "dev:webshop": "nx dev webshop",
+    "dev:server": "nx serve server"
+  },
   "devDependencies": {
     "@nx/esbuild": "22.6.5",
     "@nx/jest": "22.6.5",
