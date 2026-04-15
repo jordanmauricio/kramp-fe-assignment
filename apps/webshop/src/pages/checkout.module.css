@@ -1,0 +1,122 @@
+.page {
+  min-height: 60vh;
+}
+
+.inner {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 32px;
+}
+
+.empty {
+  text-align: center;
+  padding: 48px 0;
+  color: #666;
+}
+
+.items {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 16px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+.itemName {
+  flex: 1;
+  font-size: 15px;
+}
+
+.itemQty {
+  font-size: 14px;
+  color: #666;
+  margin: 0 16px;
+}
+
+.itemPrice {
+  font-size: 15px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.summary {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.placeOrderButton {
+  display: block;
+  background: #e63329;
+  color: white;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.placeOrderButton:hover {
+  background: #c42820;
+}
+
+.continueLink {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
+
+.confirmation {
+  max-width: 640px;
+  margin: 80px auto;
+  padding: 48px 24px;
+  text-align: center;
+}
+
+.confirmation h1 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.confirmation p {
+  color: #666;
+  margin-bottom: 24px;
+}
+
+.confirmation a {
+  color: #e63329;
+  font-weight: 600;
+}

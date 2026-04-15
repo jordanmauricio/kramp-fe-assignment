@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Heavy Duty Hammer",
+    "description": "A solid 500g steel hammer for demanding workshop tasks. Fibreglass handle absorbs vibration.",
+    "price": 18.99,
+    "category": "Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 142,
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Combination Spanner Set (8–19mm)",
+    "description": "12-piece chrome vanadium spanner set. Includes sizes 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19mm.",
+    "price": 34.50,
+    "category": "Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 87,
+    "createdAt": "2024-01-20T08:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Adjustable Wrench 300mm",
+    "description": "Heavy-duty adjustable wrench with wide jaw opening up to 34mm. Precision ground jaw for secure grip.",
+    "price": 22.75,
+    "category": "Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 56,
+    "createdAt": "2024-02-01T09:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Torque Wrench 1/2\" Drive",
+    "description": "Click-type torque wrench with 1/2\" square drive. Range 40–210 Nm. Audible click at set torque.",
+    "price": 67.99,
+    "category": "Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 34,
+    "createdAt": "2024-02-10T11:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Hex Bolt M8×40 (Pack of 50)",
+    "description": "Grade 8.8 zinc-plated hex head bolts, M8 thread, 40mm length. DIN 931 standard.",
+    "price": 8.49,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 1200,
+    "createdAt": "2024-01-05T07:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Hex Nut M8 (Pack of 100)",
+    "description": "Grade 8 zinc-plated hex nuts, M8 thread. DIN 934 standard. Full nut height.",
+    "price": 5.99,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 2400,
+    "createdAt": "2024-01-05T07:15:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Flat Washer M8 (Pack of 100)",
+    "description": "Zinc-plated flat washers for M8 bolts. DIN 125A standard. Internal diameter 8.4mm.",
+    "price": 3.75,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 3000,
+    "createdAt": "2024-01-06T07:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Self-Tapping Screw 4.2×19mm (Pack of 200)",
+    "description": "Zinc-plated self-tapping pan head screws with Philips drive. Ideal for sheet metal and thin panels.",
+    "price": 6.25,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 850,
+    "createdAt": "2024-01-12T08:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Stainless Steel Bolt M10×60 (Pack of 25)",
+    "description": "A2 stainless steel hex head bolts, M10×60mm. Corrosion resistant. DIN 931.",
+    "price": 12.99,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 420,
+    "createdAt": "2024-02-14T10:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Nylon Lock Nut M12 (Pack of 50)",
+    "description": "Zinc-plated nylon insert lock nuts, M12 thread. Prevents loosening from vibration. DIN 985.",
+    "price": 7.50,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 680,
+    "createdAt": "2024-02-18T09:30:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "Safety Helmet EN397",
+    "description": "Hard hat meeting EN397 standard. Adjustable ratchet suspension. Available in yellow. Ventilated for comfort.",
+    "price": 14.99,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 230,
+    "createdAt": "2024-01-08T08:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "High-Visibility Vest EN ISO 20471 Class 2",
+    "description": "Fluorescent yellow hi-vis vest with retro-reflective tape. Class 2 visibility. Adjustable side fasteners.",
+    "price": 9.49,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 510,
+    "createdAt": "2024-01-09T08:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "Nitrile Disposable Gloves (Box of 100)",
+    "description": "Powder-free nitrile gloves, size M. Chemical and puncture resistant. EN374 certified. Ambidextrous.",
+    "price": 11.25,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 740,
+    "createdAt": "2024-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "Safety Goggles Anti-Scratch",
+    "description": "Indirect ventilation safety goggles. Anti-fog and anti-scratch coating. EN166 certified. One size fits most.",
+    "price": 6.99,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 320,
+    "createdAt": "2024-01-22T10:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "Ear Defenders SNR 30dB",
+    "description": "Over-ear hearing protection with SNR rating of 30dB. Padded headband, adjustable for head size.",
+    "price": 16.50,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 198,
+    "createdAt": "2024-02-05T08:30:00.000Z"
+  },
+  {
+    "id": "16",
+    "name": "Dust Mask FFP2 (Pack of 10)",
+    "description": "FFP2 rated filtering facepiece respirators. Protects against fine dust, mist and fumes. EN149:2001+A1.",
+    "price": 12.99,
+    "category": "Safety Equipment",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 460,
+    "createdAt": "2024-02-12T09:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "name": "Cordless Drill/Driver 18V",
+    "description": "18V brushless cordless drill/driver. 13mm chuck, 2-speed gearbox, 21+1 torque settings. 2×2Ah batteries included.",
+    "price": 119.00,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 62,
+    "createdAt": "2024-01-18T10:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "name": "Angle Grinder 125mm 850W",
+    "description": "850W angle grinder with 125mm disc capacity. Adjustable guard, spindle lock, anti-restart protection.",
+    "price": 54.99,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 45,
+    "createdAt": "2024-01-25T11:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "name": "Random Orbital Sander 125mm",
+    "description": "300W random orbital sander with 125mm sanding pad. 12,000 OPM, dust collection bag included.",
+    "price": 44.75,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 38,
+    "createdAt": "2024-02-03T09:00:00.000Z"
+  },
+  {
+    "id": "20",
+    "name": "Reciprocating Saw 1050W",
+    "description": "1050W reciprocating saw with tool-free blade change. Variable speed trigger, pivoting shoe for controlled cutting.",
+    "price": 89.50,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 27,
+    "createdAt": "2024-02-08T10:00:00.000Z"
+  },
+  {
+    "id": "21",
+    "name": "Jigsaw 700W",
+    "description": "700W jigsaw with 4-stage orbital action. Tool-free blade change. Dust blower keeps cutting line clear.",
+    "price": 72.00,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 31,
+    "createdAt": "2024-02-20T09:30:00.000Z"
+  },
+  {
+    "id": "22",
+    "name": "Screwdriver Set (10 pcs)",
+    "description": "10-piece screwdriver set with magnetic tips. Includes PH0, PH1, PH2, PH3, SL3, SL4, SL5, SL6, TX20, TX25.",
+    "price": 19.99,
+    "category": "Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 115,
+    "createdAt": "2024-03-01T08:00:00.000Z"
+  },
+  {
+    "id": "23",
+    "name": "Wood Screw 4×40mm Countersunk (Pack of 200)",
+    "description": "Yellow zinc-plated countersunk wood screws with Torx T20 drive. Partial thread for strong clamping.",
+    "price": 9.25,
+    "category": "Fasteners",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 950,
+    "createdAt": "2024-03-05T07:00:00.000Z"
+  },
+  {
+    "id": "24",
+    "name": "Impact Driver 18V",
+    "description": "18V brushless impact driver. 210 Nm max torque, 3-speed selector, belt clip. 1×2Ah battery included.",
+    "price": 99.00,
+    "category": "Power Tools",
+    "imageUrl": "https://placehold.co/1200x800",
+    "stock": 48,
+    "createdAt": "2024-03-10T10:00:00.000Z"
+  }
+]

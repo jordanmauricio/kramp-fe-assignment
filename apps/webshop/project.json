@@ -5,5 +5,13 @@
   "projectType": "application",
   "tags": [],
   "// targets": "to see all targets run: nx show project webshop --web",
-  "targets": {}
+  "targets": {
+    "storybook": {
+      "executor": "@storybook/core-server:start",
+      "options": {
+        "port": 6006,
+        "configDir": "apps/webshop/.storybook"
+      }
+    }
+  }
 }

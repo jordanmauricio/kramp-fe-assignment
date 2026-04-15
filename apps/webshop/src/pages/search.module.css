@@ -1,0 +1,38 @@
+.page {
+  min-height: 60vh;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.empty {
+  color: #666;
+  font-size: 16px;
+}
+
+.category {
+  margin-bottom: 40px;
+}
+
+.categoryTitle {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e63329;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}

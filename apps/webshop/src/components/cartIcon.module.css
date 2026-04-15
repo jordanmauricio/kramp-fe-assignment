@@ -1,0 +1,30 @@
+.cartIcon {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  padding: 8px 12px;
+  margin-left: 16px;
+}
+
+.cartIcon:hover {
+  opacity: 0.8;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #e63329;
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
